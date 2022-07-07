@@ -6,7 +6,14 @@
 - [Netflix Top10](https://top10.netflix.com/)
 - [Netflix Investors](https://ir.netflix.net/ir-overview/profile/default.aspx)
 
-## 類似企業
+## Question
 
-- Amazon Prime Video
-- Disney+
+- なぜNetflixの会員数が減少したのか
+- 巣ごもり需要は終わったのか
+- 他の動画配信サービスの会員数も減少したのか
+- Netflixのオリジナルドラマは成功しているのか
+
+## Theory
+
+- 巣ごもり需要の低下
+- 競争の激化
