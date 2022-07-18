@@ -1,0 +1,23 @@
+---
+title: "Visualization"
+output: html_document
+date: '2022-07-18'
+---
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+agg_week<-read.csv('Data/agg_week.csv')
+```
+
+```{r}
+agg_week$week <- as.Date(agg_week$week)
+```
+
+```{r}
+g <- ggplot(data=agg_week, 
+               mapping=aes(x=week, y=weekly_hours_viewed)) + geom_line()
+plot(g)
+```
